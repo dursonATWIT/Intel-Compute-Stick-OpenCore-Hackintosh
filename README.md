@@ -2,6 +2,7 @@
 (m3/m5 model, no atom)
 
 ![Compute Stick](https://cdn.cnetcontent.com/d7/85/d785f29a-dc78-4e58-a9e0-31fcd360f826.jpg)
+
 Tested with macOS 11.2
 
 What doesn't work (yet):
